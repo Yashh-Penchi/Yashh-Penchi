@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Yash 👋
 
-<!--
-**Yashh-Penchi/Yashh-Penchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend & Full-Stack Developer from India
 
-Here are some ideas to get you started:
+🚀 Tech Stack
+- React
+- JavaScript
+- HTML/CSS
+- Tailwind CSS
+- Node.js
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Portfolio
+https://yashh-portfolio-v2.vercel.app/
+
+📫 Contact
+LinkedIn: yashh-penchi
+Email: iyash321@gmail.com
