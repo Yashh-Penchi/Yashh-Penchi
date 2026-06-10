@@ -8,6 +8,7 @@ Open Source • UI/UX • Web Performance
 ### 💻 Skills & Expertise
 
 **Web Dev** • **Software Dev** • **Minecraft Dev**
+
 HTML | CSS | Tailwind CSS | React | JavaScript | Java | MongoDB | MySQL | UI/UX & Graphic Design
 
 <p align="center">
