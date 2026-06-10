@@ -1,4 +1,4 @@
-# Hi, I'm Yashh 👋
+# Hi!, I'm Yashh
 
 **Frontend & Full-Stack Developer from India**
 
