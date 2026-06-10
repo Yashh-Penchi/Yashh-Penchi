@@ -1,6 +1,6 @@
 # Hi!, I'm Yashh
 
-**Frontend & Full-Stack Developer from India**
+**Frontend & Full-Stack Developer from Indore, India**
 
 Building modern web applications with **React & JavaScript**  
 **Web Dev** • **Software Dev** • **Minecraft Dev** </br> </br>
@@ -17,6 +17,6 @@ HTML | CSS | Tailwind CSS | React | JavaScript | Java | MongoDB | MySQL | UI/UX 
     <img src="https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://yashh-links.vercel.app">
-    <img src="https://img.shields.io/badge/Links-667eea?style=for-the-badge&logo=link&logoColor=white" alt="Links" />
+    <img src="https://img.shields.io/badge/Links-90d5ff?style=for-the-badge&logo=link&logoColor=white" alt="Links" />
   </a>
 </p>
