@@ -4,9 +4,7 @@
 
 Building modern web applications with **React & JavaScript**  
 **Web Dev** • **Software Dev** • **Minecraft Dev** </br> </br>
-<div align="center">
-  <h3>🛠️ Tech Stack & Skills</h3>
-  
+<div align="start">  
   <p>
     <img src="https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
