@@ -8,8 +8,7 @@ Open Source • UI/UX • Web Performance
 ### 💻 Skills & Expertise
 
 **Web Dev** • **Software Dev** • **Minecraft Dev**
-
-**Languages:** Java • JavaScript • Graphic Design
+HTML | CSS | Tailwind CSS | React | JavaScript | Java | MongoDB | MySQL | UI/UX & Graphic Design
 
 <p align="center">
   <a href="https://yashh-links.vercel.app">
