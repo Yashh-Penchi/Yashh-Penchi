@@ -17,46 +17,19 @@ Building modern web applications with **React & JavaScript**
     <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF6B6B?style=flat&logo=figma&logoColor=white" alt="UI/UX Design" />
     <img src="https://img.shields.io/badge/Graphic%20Design-9D4EDD?style=flat&logo=adobe&logoColor=white" alt="Graphic Design" />
   </p>
-
-<style>
-  .tech-section {
-    margin: 30px 0;
-  }
-  
-  .tech-section h3 {
-    margin-bottom: 15px;
-    font-size: 1.3em;
-    font-weight: 600;
-    color: #c9d1d9;
-  }
-  
-  .tech-badges {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    align-items: center;
-  }
-  
-  .tech-badges img {
-    height: 28px;
-  }
-</style>
-
-<div class="tech-section">
-  <h3>🛠️ Tech Stack</h3>
-  <div class="tech-badges">
-    <img src="https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF6B6B?style=flat&logo=figma&logoColor=white" alt="UI/UX Design" />
-    <img src="https://img.shields.io/badge/Graphic%20Design-9D4EDD?style=flat&logo=adobe&logoColor=white" alt="Graphic Design" />
-  </div>
-</div>
+<p>
+  <strong>Tech Stack:</strong>
+  <img src="https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF6B6B?style=flat&logo=figma&logoColor=white" alt="UI/UX Design" />
+  <img src="https://img.shields.io/badge/Graphic%20Design-9D4EDD?style=flat&logo=adobe&logoColor=white" alt="Graphic Design" />
+</p>
   
 <p align="start">
   <a href="https://yashh-links.vercel.app">
