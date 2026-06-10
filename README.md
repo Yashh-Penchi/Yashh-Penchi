@@ -1,6 +1,6 @@
 # Hi!, I'm Yashh
 
-**Frontend & Full-Stack Developer from Indore, India**
+**Frontend & Full-Stack Developer from Indore India**
 
 Building modern web applications with **React & JavaScript**  
 **Web Dev** • **Software Dev** • **Minecraft Dev** </br>
