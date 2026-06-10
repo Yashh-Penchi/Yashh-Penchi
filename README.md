@@ -21,5 +21,3 @@ HTML | CSS | Tailwind CSS | React | JavaScript | Java | MongoDB | MySQL | UI/UX 
     <img src="https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
