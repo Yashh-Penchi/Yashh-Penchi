@@ -4,7 +4,7 @@
 
 Building modern web applications with **React & JavaScript**  
 **Web Dev** • **Software Dev** • **Minecraft Dev** </br> </br>
-HTML | CSS | Tailwind CSS | React | JavaScript | Java | MongoDB | MySQL | UI/UX & Graphic Design
+<p style="font-family:Roboto"> HTML | CSS | Tailwind CSS | React | JavaScript | Java | MongoDB | MySQL | UI/UX & Graphic Design </p>
 
 <p align="start">
   <a href="https://yashh-links.vercel.app">
