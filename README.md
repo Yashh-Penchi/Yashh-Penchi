@@ -1,22 +1,14 @@
 # Hi, I'm Yashh
 
 Frontend & Full-Stack Developer from India
+Building modern web applications with React & JavaScript.
+Open Source • UI/UX • Web Performance
 
-🚀 Tech Stack
-> React
-> JavaScript
-> HTML/CSS
-> Tailwind CSS
-> Node.js
-> MongoDB
+Web Dev • Software Dev • Minecraft Dev |
+Java and JavaScript | Graphic Designer |
 
 🌐 Portfolio
 https://yashh-portfolio-v2.vercel.app/
 
 📫 Contact
-LinkedIn: yashh-penchi
-Email: iyash321@gmail.com
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashh-Penchi)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashh-Penchi)
+🌐 [Portfolio](https://yashh-links.vercel.app) • 💼 [LinkedIn](https://www.linkedin.com/in/yashh-penchi) • 📧 [Contact](mailto:iyash321@gmail.com)
