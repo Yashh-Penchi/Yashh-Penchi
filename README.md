@@ -7,8 +7,5 @@ Open Source • UI/UX • Web Performance
 Web Dev • Software Dev • Minecraft Dev |
 Java and JavaScript | Graphic Designer |
 
-🌐 Portfolio
-https://yashh-portfolio-v2.vercel.app/
-
-📫 Contact
+Contact
 🌐 [Portfolio](https://yashh-links.vercel.app) • 💼 [LinkedIn](https://www.linkedin.com/in/yashh-penchi) • 📧 [Contact](mailto:iyash321@gmail.com)
