@@ -4,6 +4,7 @@
 
 Building modern web applications with **React & JavaScript**  
 **Web Dev** • **Software Dev** • **Minecraft Dev** </br> </br>
+
 <style>
   .tech-stack {
     display: flex;
