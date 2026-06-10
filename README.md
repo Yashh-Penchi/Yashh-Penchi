@@ -3,7 +3,7 @@
 **Frontend & Full-Stack Developer from Indore, India**
 
 Building modern web applications with **React & JavaScript**  
-**Web Dev** • **Software Dev** • **Minecraft Dev** </br> </br>
+**Web Dev** • **Software Dev** • **Minecraft Dev** </br>
 
 <div class="tech-stack">
   <img src="https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=white" alt="HTML" />
