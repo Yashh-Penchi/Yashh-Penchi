@@ -5,7 +5,7 @@
 Building modern web applications with **React & JavaScript**  
 Open Source • UI/UX • Web Performance
 
-### 💻 Skills & Expertise
+### Skills & Expertise
 
 **Web Dev** • **Software Dev** • **Minecraft Dev** </br>
 HTML | CSS | Tailwind CSS | React | JavaScript | Java | MongoDB | MySQL | UI/UX & Graphic Design
