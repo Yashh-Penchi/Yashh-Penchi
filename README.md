@@ -16,7 +16,7 @@ Building modern web applications with **React & JavaScript**
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF6B6B?style=flat&logo=figma&logoColor=white" alt="UI/UX Design" />
   <img src="https://img.shields.io/badge/Graphic%20Design-9D4EDD?style=flat&logo=adobe&logoColor=white" alt="Graphic Design" />
-</div>
+</div> </br>
   
 <p align="start">
   <a href="https://yashh-links.vercel.app">
