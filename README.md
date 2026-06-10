@@ -3,7 +3,7 @@
 **Frontend & Full-Stack Developer from India**
 
 Building modern web applications with **React & JavaScript**  
-**Web Dev** • **Software Dev** • **Minecraft Dev** </br>
+**Web Dev** • **Software Dev** • **Minecraft Dev** </br> </br>
 HTML | CSS | Tailwind CSS | React | JavaScript | Java | MongoDB | MySQL | UI/UX & Graphic Design
 
 <p align="center">
