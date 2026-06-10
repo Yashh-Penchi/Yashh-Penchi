@@ -4,7 +4,6 @@
 
 Building modern web applications with **React & JavaScript**  
 **Web Dev** • **Software Dev** • **Minecraft Dev** </br> </br>
-<div align="start">  
   <p>
     <img src="https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
@@ -17,7 +16,6 @@ Building modern web applications with **React & JavaScript**
     <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF6B6B?style=flat&logo=figma&logoColor=white" alt="UI/UX Design" />
     <img src="https://img.shields.io/badge/Graphic%20Design-9D4EDD?style=flat&logo=adobe&logoColor=white" alt="Graphic Design" />
   </p>
-</div>
 <p align="start">
   <a href="https://yashh-links.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
