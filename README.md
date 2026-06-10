@@ -6,7 +6,7 @@ Building modern web applications with **React & JavaScript**
 **Web Dev** • **Software Dev** • **Minecraft Dev** </br> </br>
 HTML | CSS | Tailwind CSS | React | JavaScript | Java | MongoDB | MySQL | UI/UX & Graphic Design
 
-<p align="center">
+<p align="start">
   <a href="https://yashh-links.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
