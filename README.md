@@ -7,6 +7,12 @@ Open Source • UI/UX • Web Performance
 
 ---
 
+### 💻 Skills & Expertise
+
+**Web Dev** • **Software Dev** • **Minecraft Dev**
+
+**Languages:** Java • JavaScript • Graphic Design
+
 <p align="center">
   <a href="https://yashh-links.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -20,9 +26,3 @@ Open Source • UI/UX • Web Performance
 </p>
 
 ---
-
-### 💻 Skills & Expertise
-
-**Web Dev** • **Software Dev** • **Minecraft Dev**
-
-**Languages:** Java • JavaScript • Graphic Design
