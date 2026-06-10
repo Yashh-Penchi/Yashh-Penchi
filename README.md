@@ -6,7 +6,7 @@ Building modern web applications with **React & JavaScript**
 **Web Dev** • **Software Dev** • **Minecraft Dev** </br> </br>
 
 <div class="tech-stack" style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
-  <strong style="white-space: nowrap;">Tech Stack:</strong>
+  <strong style="white-space: nowrap; display:flex; text-align:center;align-item:center">Tech Stack:</strong>
   <img style="height: 24px; vertical-align: middle;" src="https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=white" alt="HTML" />
   <img style="height: 24px; vertical-align: middle;" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
   <img style="height: 24px; vertical-align: middle;" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
