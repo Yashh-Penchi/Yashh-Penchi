@@ -32,34 +32,3 @@ Building modern web applications with **React & JavaScript**
     <img src="https://img.shields.io/badge/Links-90d5ff?style=for-the-badge&logo=link&logoColor=white" alt="Links" />
   </a>
 </p>
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashh-Penchi&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Yashh-Penchi)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashh-Penchi&layout=compact)
-
-## 🛠 Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,js,html,css,mysql,git,github,vscode)
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Yashh-Penchi)
-
-
-## 💻 Development
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,java,mysql,git,github)
-
-## 🎨 Design
-
-- UI/UX Design
-- Graphic Design
-- Figma
-- Wireframing
-- Prototyping
-- Brand Identity Design
