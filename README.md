@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=435&lines=Hi!+I'm+Yashh!)](https://git.io/typing-svg) </br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=435&lines=Hi!+I'm+Yashh...!!)](https://git.io/typing-svg) </br>
 **Frontend & Full-Stack Developer from Indore India**
 
 Building modern web applications with **React & JavaScript**  
