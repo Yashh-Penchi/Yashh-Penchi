@@ -32,3 +32,5 @@ Building modern web applications with **React & JavaScript**
     <img src="https://img.shields.io/badge/Links-90d5ff?style=for-the-badge&logo=link&logoColor=white" alt="Links" />
   </a>
 </p>
+
+![Snake animation](https://github.com/Yashh-Penchi/Yashh-Penchi/blob/output/github-contribution-grid-snake.svg)
