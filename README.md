@@ -1,4 +1,6 @@
-# Hi!, I'm Yashh
+# Hi!, <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello!+👋;+I'm + Yashh!;" />
+</h1>
 
 **Frontend & Full-Stack Developer from Indore India**
 
