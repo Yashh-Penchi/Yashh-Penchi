@@ -32,4 +32,4 @@ Building modern web applications with **React & JavaScript**
   </a>
 </p>
 
-![Snake animation](https://github.com/Yashh-Penchi/Yashh-Penchi/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Yashh-Penchi/Yashh-Penchi/blob/output/github-contribution-grid-snake.svg) -->
