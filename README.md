@@ -14,12 +14,11 @@ Building modern web applications with **React & JavaScript**
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF6B6B?style=flat&logo=figma&logoColor=white" alt="UI/UX Design" />
-  <img src="https://img.shields.io/badge/Graphic%20Design-9D4EDD?style=flat&logo=adobe&logoColor=white" alt="Graphic Design" />
 </div> </br>
 
 <p align="left">
   <a href="https://yashh-links.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/yashh-penchi">
@@ -42,7 +41,6 @@ Building modern web applications with **React & JavaScript**
     <img src="https://img.shields.io/badge/Organization-Yashh%20Labs-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white" alt="Yashh Labs Organization" />
   </a>
 </p>
-
 
 
 <!-- ![Snake animation](https://github.com/Yashh-Penchi/Yashh-Penchi/blob/output/github-contribution-grid-snake.svg) -->
