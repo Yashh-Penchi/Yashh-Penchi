@@ -16,20 +16,33 @@ Building modern web applications with **React & JavaScript**
   <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF6B6B?style=flat&logo=figma&logoColor=white" alt="UI/UX Design" />
   <img src="https://img.shields.io/badge/Graphic%20Design-9D4EDD?style=flat&logo=adobe&logoColor=white" alt="Graphic Design" />
 </div> </br>
-  
-<p align="start">
+
+<p align="left">
   <a href="https://yashh-links.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+
   <a href="https://www.linkedin.com/in/yashh-penchi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="mailto:iyash321@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
   <a href="https://yashh-links.vercel.app">
     <img src="https://img.shields.io/badge/Links-90d5ff?style=for-the-badge&logo=link&logoColor=white" alt="Links" />
   </a>
+
+  <a href="https://buymeacoffee.com/yashh_labs">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me A Coffee" />
+  </a>
+
+  <a href="https://modrinth.com/organization/yashh-labs">
+    <img src="https://img.shields.io/badge/Organization-Yashh%20Labs-1BD96A?style=for-the-badge&logo=modrinth&logoColor=white" alt="Yashh Labs Organization" />
+  </a>
 </p>
+
+
 
 <!-- ![Snake animation](https://github.com/Yashh-Penchi/Yashh-Penchi/blob/output/github-contribution-grid-snake.svg) -->
