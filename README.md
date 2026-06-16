@@ -49,3 +49,17 @@ Building modern web applications with **React & JavaScript**
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Yashh-Penchi)
+
+
+## 💻 Development
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,java,mysql,git,github)
+
+## 🎨 Design
+
+- UI/UX Design
+- Graphic Design
+- Figma
+- Wireframing
+- Prototyping
+- Brand Identity Design
