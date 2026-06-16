@@ -1,5 +1,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Yashh!" alt="Typing SVG" /></a>
-
 **Frontend & Full-Stack Developer from Indore India**
 
 Building modern web applications with **React & JavaScript**  
