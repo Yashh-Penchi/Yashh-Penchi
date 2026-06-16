@@ -34,4 +34,18 @@ Building modern web applications with **React & JavaScript**
 </p>
 
 
-![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashh-Penchi&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Yashh-Penchi)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashh-Penchi&layout=compact)
+
+## 🛠 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,js,html,css,mysql,git,github,vscode)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Yashh-Penchi)
