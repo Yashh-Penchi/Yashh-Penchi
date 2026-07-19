@@ -24,7 +24,7 @@ Building modern web applications with **React & JavaScript**
   <img src="https://skillicons.dev/icons?i=ps" />
 </p>
 <p align="left">
-  <a href="https://yashh-portfolio-v2.vercel.app/">
+  <a href="https://yashh.app/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
