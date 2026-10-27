@@ -53,4 +53,7 @@ Building modern web applications with **React & JavaScript**
   </a>
 </p>
 
+🔐 Behind the scenes. Under active development. Not open source.
+
+
 <!-- ![Snake animation](https://github.com/Yashh-Penchi/Yashh-Penchi/blob/output/github-contribution-grid-snake.svg) -->
